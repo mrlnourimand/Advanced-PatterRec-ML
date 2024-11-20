@@ -13,8 +13,6 @@ from X, and then generates a sentence of 50 characters using the trained
 network.)
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 import torch
 import torch.nn as nn
