@@ -13,8 +13,6 @@ The code prints the training loss after each epoch and then a generated
 sequence of length 50.)
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 
 import numpy as np
